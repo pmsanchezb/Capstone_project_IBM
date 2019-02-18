@@ -4,6 +4,9 @@ I am considering in opennning a new hotel in Bogota (Colombia), as part of an ex
 
 I am looking for a neighborhood with a lot of visitors, for whatever purpose they want (Business or pleasure) and near to touristic places.
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 ## Business Problem
 
 The data I am gonna use is the neighborhood data avalilable in wilkipedia. Bogotá is a big city with more than 6 million of inhabitants. The city is divided into 20 localities, each locality has major areas called UPZs that contain the neighborhoods.
