@@ -4,8 +4,8 @@ I am considering in opennning a new hotel in Bogota (Colombia), as part of an ex
 
 I am looking for a neighborhood with a lot of visitors, for whatever purpose they want (Business or pleasure) and near to touristic places.
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+Take a look of Bogotá
+[GitHub](https://es.wikipedia.org/wiki/Bogot%C3%A1)
 
 ## Business Problem
 
