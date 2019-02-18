@@ -11,6 +11,10 @@ Take a look of Bogotá
 
 The data I am gonna use is the neighborhood data avalilable in wilkipedia. Bogotá is a big city with more than 6 million of inhabitants. The city is divided into 20 localities, each locality has major areas called UPZs that contain the neighborhoods.
 
+* Locality
+ * UPZ
+  * Neighborhood
+
 The method for data extraction is going to be web scraping and ideally I expect through clustering identify the best neighborhood to start my new hotel.
 
 In order to show the data, check the next wilkipedia link. 
